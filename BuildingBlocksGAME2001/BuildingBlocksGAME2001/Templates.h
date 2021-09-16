@@ -1,4 +1,4 @@
-// Lab 1 Example 
+// Lab 1 Example Templates 
 template<class T>
 class TempalteClass
 {
